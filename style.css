@@ -1,0 +1,45 @@
+.dark-mode{
+
+    background-color: black;
+    color: white;
+ }
+.light-mode{
+    background-color: white;
+    color: black;
+
+}
+
+.dark-mode-footer{
+
+    background-color:black;
+    color:white;
+}
+
+.btn{
+    border-radius: solid 1px black;
+   color: white;
+   border-radius: 10px 10px;
+   flex: 1 1 auto;
+   box-shadow: inset;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   flex: 1 1 auto;
+}
+
+header{
+    text-align: center;
+    color: white;
+    background-color: cadetblue;
+    padding-bottom: 20px;
+}
+
+form{
+     padding-top: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
+footer{
+    padding-top: 50px;
+    text-align: center;
+}
